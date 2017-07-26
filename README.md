@@ -1,5 +1,6 @@
 # xmasonry-meteor
-Minimal setup to for  react-xmasonry and Meteor
+Minimal setup to for  react-xmasonry and Meteor.
+
 To run: 
   1. meteor npm instlal 
   2. meteor 
